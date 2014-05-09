@@ -25,7 +25,7 @@
     // Override point for customization after application launch.
     
     //SS:Intializing Parse
-    [Parse setApplicationId:@"x29ceQ9ro2nNJlLVTLjEnR8Xm05pptmwNLWBPStu" clientKey:@"i95R8EMSN56LNh02E7fr1jzmX7rw8o7iPCNseAMU"];
+    [Parse setApplicationId:@"dmuuvKy8No2fy7UnhJUNtIad95jDeOjYVlxEgnj9" clientKey:@"azhgmvaLgTWwsab3xAMrzgi9LOCMmjvo6A9AcEdr"];
     
     
     self.window = [[UIWindow alloc] initWithFrame: [[UIScreen mainScreen] bounds]];
